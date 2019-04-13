@@ -1,0 +1,14 @@
+:root{
+    --color-primario: "#FFF";
+
+}
+
+.output{
+    border: solid;
+    border-radius: 2px;
+    background-color: antiquewhite;
+    width: 90%;
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+}
